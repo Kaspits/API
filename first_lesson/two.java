@@ -1,6 +1,6 @@
 package first_lesson;
 
-import java.util.Arrays;
+// import java.util.Arrays;
 
 public class two {
     public static void main(String[] args) {
