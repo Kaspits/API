@@ -31,9 +31,11 @@ public class task_2 {
                     writer.append(String.valueOf(array[i]));
                     writer.append("\n");
                     writer.flush();
+                    writer.close();
                 } catch (Exception ex) {
                     System.out.println("Что то пошло не так! ");
                 }
+
             }
             n++;
         }

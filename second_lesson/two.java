@@ -10,6 +10,7 @@ public class two {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         getShorty(str);
+        sc.close();
     }
 
     public static void getShorty(String str) {

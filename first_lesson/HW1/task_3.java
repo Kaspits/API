@@ -20,6 +20,7 @@ public class task_3 {
         } else if (operation.equals("/")) {
             System.out.println(a / b);
         }
+        sc.close();
 
     }
 }

@@ -26,6 +26,7 @@ public class one {
             // sb += c2;
 
         }
+        sc.close();
         System.out.println(sb);
     }
 }
